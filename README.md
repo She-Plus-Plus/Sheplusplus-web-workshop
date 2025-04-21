@@ -47,3 +47,34 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
    ```bash
    git clone https://github.com/She-Plus-Plus/Sheplusplus-web-workshop.git
+
+2. Navega al directorio del proyecto:
+
+   ```bash
+   cd Sheplusplus-web-workshop
+
+3. Instala las dependencias necesarias:
+   
+   ```bash
+   npm install
+
+4. Inicia el servidor de desarrollo:
+   
+   ```bash
+   npm start
+Luego, abre tu navegador en http://localhost:3000 para ver la aplicación en funcionamiento.
+
+---
+
+## 📁 Estructura del Proyecto
+
+```bash
+Sheplusplus-web-workshop/
+├── assets/             # Archivos estáticos (imágenes, fuentes, etc.)
+├── index.html          # Página principal del taller
+├── styles/             # Hojas de estilo CSS
+├── scripts/            # Archivos JavaScript
+├── README.md           # Documentación del proyecto
+└── package.json        # Dependencias y scripts del proyecto
+
+
