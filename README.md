@@ -67,14 +67,37 @@ Luego, abre tu navegador en http://localhost:3000 para ver la aplicación en fun
 ---
 
 ## 📁 Estructura del Proyecto
+    
+     Sheplusplus-web-workshop/
+         ├── assets/             # Archivos estáticos (imágenes, fuentes, etc.)
+         ├── index.html          # Página principal del taller
+         ├── styles/             # Hojas de estilo CSS
+         ├── scripts/            # Archivos JavaScript
+         ├── README.md           # Documentación del proyecto
+         └── package.json        # Dependencias y scripts del proyecto
 
-```bash
-Sheplusplus-web-workshop/
-├── assets/             # Archivos estáticos (imágenes, fuentes, etc.)
-├── index.html          # Página principal del taller
-├── styles/             # Hojas de estilo CSS
-├── scripts/            # Archivos JavaScript
-├── README.md           # Documentación del proyecto
-└── package.json        # Dependencias y scripts del proyecto
 
+---
 
+## 🛠 Tecnologías Utilizadas
+
+- HTML5
+
+- CSS3
+
+- JavaScript (ES6+)
+
+- Node.js
+---
+
+## 👩‍💻 Contribuyentes
+- Diana de la Rosa – Facilitadora del taller
+
+- Natasha Prado – Facilitadora del taller
+
+---
+
+## 📝 Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
+
+         
